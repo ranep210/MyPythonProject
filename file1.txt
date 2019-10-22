@@ -2,5 +2,9 @@ this is file1
 
 <html>
  <head>
+   <title></title>
+   <body>
+           t1
+           t2
  </head>
 </html>
