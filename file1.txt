@@ -6,5 +6,7 @@ this is file1
    <body>
            t1
            t2
+	   product=mobile
+	   sony
  </head>
 </html>
